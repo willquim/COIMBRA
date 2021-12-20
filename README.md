@@ -4,4 +4,6 @@ Coimbra Group Scholarship Programme: Young Professors and Researchers from Latin
 
 #FELLOW: William J. Zamora Ramírez
 
+#SUPERVISOR: Fco Javier Luque Garriga
+
 
